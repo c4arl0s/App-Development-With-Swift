@@ -16,29 +16,29 @@ Click on any number and it lead you to the topic.
    * [Guided Project - Ligh]()
    * [Summary]()
 2. [Introduction to UIKit]()
-   * [Strings](https://github.com/c4arl0s/Swift#string--menu)
-   * [Functions](https://github.com/c4arl0s/Swift#functions)
-   * [Structures](https://github.com/c4arl0s/Swift#structures--menu)
-   * [Classes, Inheritance](https://github.com/c4arl0s/Swift#classes-and-inheritance--menu)
-   * [Collections](https://github.com/c4arl0s/Swift#collections--menu)
-   * [Loops](https://github.com/c4arl0s/Swift#loops)
-   * [Introduction to UIKit](https://github.com/c4arl0s/IntroductionToUIKit)
+   * [Strings](https://github.com/c4arl0s/Swift#string--menu) [X]
+   * [Functions](https://github.com/c4arl0s/Swift#functions) [X]
+   * [Structures](https://github.com/c4arl0s/Swift#structures--menu) [X]
+   * [Classes, Inheritance](https://github.com/c4arl0s/Swift#classes-and-inheritance--menu) [X]
+   * [Collections](https://github.com/c4arl0s/Swift#collections--menu) [X]
+   * [Loops](https://github.com/c4arl0s/Swift#loops) [X]
+   * [Introduction to UIKit](https://github.com/c4arl0s/IntroductionToUIKit) [X]
    * [Displaying Data]()
    * [Control In Action]()
    * [AutoLayout and Stack Views](https://github.com/c4arl0s/AutoLayoutsAndStackViews)
-   * [Guided Project : Apple Pie](https://github.com/c4arl0s/ApplePieApp)
+   * [Guided Project : Apple Pie](https://github.com/c4arl0s/ApplePieApp) [X]
    * [Summary]()
-3. [Navigation And Workflows](https://github.com/c4arl0s/NavigationAndWorkflows)
-   * [Optionals](https://github.com/c4arl0s/Optionals)
-   * [Type Casting and Inspection](https://github.com/c4arl0s/TypeCastingAndInspection)
-   * [Guard](https://github.com/c4arl0s/Guard)
-   * [Constant and Variable Scope](https://github.com/c4arl0s/ConstantAndVariableScope)
-   * [Enumerations](https://github.com/c4arl0s/Enumerations)
-   * [Segues and Navigation Controllers](https://github.com/c4arl0s/SeguesAndNavigationControllers)
-   * [Tab Bar Controllers](https://github.com/c4arl0s/TabBarControllers)
-   * [View Controller Life Cycle](https://github.com/c4arl0s/ViewControllerLifeCycle)
-   * [Building Simple WorkFlows](https://github.com/c4arl0s/BuildingSimpleWorkflows)
-   * [Guided Project: Personality Quiz](https://github.com/c4arl0s/PersonalityQuiz)
+3. [Navigation And Workflows](https://github.com/c4arl0s/NavigationAndWorkflows) [X]
+   * [Optionals](https://github.com/c4arl0s/Optionals) [X]
+   * [Type Casting and Inspection](https://github.com/c4arl0s/TypeCastingAndInspection) [X]
+   * [Guard](https://github.com/c4arl0s/Guard) [X]
+   * [Constant and Variable Scope](https://github.com/c4arl0s/ConstantAndVariableScope) [X]
+   * [Enumerations](https://github.com/c4arl0s/Enumerationshttps://github.com/c4arl0s/Enumerations) [X]
+   * [Segues and Navigation Controllers](https://github.com/c4arl0s/SeguesAndNavigationControllers) [X]
+   * [Tab Bar Controllers](https://github.com/c4arl0s/TabBarControllers) [X]
+   * [View Controller Life Cycle](https://github.com/c4arl0s/ViewControllerLifeCycle) [X]
+   * [Building Simple WorkFlows](https://github.com/c4arl0s/BuildingSimpleWorkflows) [X]
+   * [Guided Project: Personality Quiz](https://github.com/c4arl0s/PersonalityQuiz) [X]
    * [Summary]()
 4. [Building AR Apps with Xcode]()
    * [The Augmented Reality Template]()
@@ -48,25 +48,25 @@ Click on any number and it lead you to the topic.
    * [Image Recognition in ARKit]()
    * [Guided Project: AR Drawing]()
 5. [Tables and Persistence]()
-   * [Protocols](https://github.com/c4arl0s/Protocols)
-   * [App Anatomy and Life Cycle](https://github.com/c4arl0s/AppAnatomyAndLifeCycle)
-   * [Model View Controller](https://github.com/c4arl0s/Model_View_Controller)
-   * [Scroll Views](https://github.com/c4arl0s/ScrollViews)
-   * [Table Views]()
-   * [Intermediate Table Views]()
+   * [Protocols](https://github.com/c4arl0s/Protocols) [X]
+   * [App Anatomy and Life Cycle](https://github.com/c4arl0s/AppAnatomyAndLifeCycle) [X]
+   * [Model View Controller](https://github.com/c4arl0s/Model_View_Controller) [X]
+   * [Scroll Views](https://github.com/c4arl0s/ScrollViews) [X]
+   * [Table Views](https://github.com/c4arl0s/TableViews#table-views---content)
+   * [Intermediate Table Views](https://github.com/c4arl0s/IntermediateTableViews#intermediate-table-views---content)
    * [Saving Data]()
-   * [System View Controllers](https://github.com/c4arl0s/SystemViewControllers)
-   * [Building Complex Input Screens](https://github.com/c4arl0s/BuildingComplexInputScreens)
-   * [Guided Project: List](https://github.com/c4arl0s/ToDoListApp)
+   * [System View Controllers](https://github.com/c4arl0s/SystemViewControllers) [X]
+   * [Building Complex Input Screens](https://github.com/c4arl0s/BuildingComplexInputScreens) [X]
+   * [Guided Project: List](https://github.com/c4arl0s/ToDoListApp) [X]
    * [Summary]()
 6. [Working with the Web]()
-   * [Closures](https://github.com/c4arl0s/Closures)
+   * [Closures](https://github.com/c4arl0s/Closures) [X]
    * [Extensions]()
    * [Practical Animations]()
-   * [Working with the Web: HTTP and URL Session](https://github.com/c4arl0s/WorkingWithTheWebHTTPandURLSession)
-   * [Working with the Web: Decoding JSON](https://github.com/c4arl0s/WorkingWithTheWebDecodingJSON)
-   * [Working with the web: Concurrency](https://github.com/c4arl0s/WorkingWithTheWebConcurrency)
-   * [Guided Project : Restaurant](https://github.com/c4arl0s/RestaurantApp)
+   * [Working with the Web: HTTP and URL Session](https://github.com/c4arl0s/WorkingWithTheWebHTTPandURLSession) [X] 
+   * [Working with the Web: Decoding JSON](https://github.com/c4arl0s/WorkingWithTheWebDecodingJSON) [X] 
+   * [Working with the web: Concurrency](https://github.com/c4arl0s/WorkingWithTheWebConcurrency) [X] 
+   * [Guided Project : Restaurant](https://github.com/c4arl0s/RestaurantApp) [X] 
    * [Summary]()
 7. [Prototyping and Project Planning]()
    * [App Personality]()
