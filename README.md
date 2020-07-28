@@ -5,6 +5,15 @@ App Development With Swift
 Click on any number and it lead you to the topic.
 
 1. [Getting Started With App Development]()
+2. [Introduction to UIKit]()
+3. [Navigation And Workflows](https://github.com/c4arl0s/NavigationAndWorkflows) [X]
+4. [Building AR Apps with Xcode]()
+5. [Tables and Persistence]()
+6. [Working with the Web]()
+7. [Prototyping and Project Planning]()
+
+
+### 1. [Getting Started With App Development]()
    * [Introduction to Swift and Playgrounds]()
    * [Constants, Variables and Data Types]()
    * [Operators]()
@@ -15,7 +24,7 @@ Click on any number and it lead you to the topic.
    * [Interface Builder Basics]()
    * [Guided Project - Ligh]()
    * [Summary]()
-2. [Introduction to UIKit]()
+### 2. [Introduction to UIKit]()
    * [Strings](https://github.com/c4arl0s/Swift#string--menu) [X]
    * [Functions](https://github.com/c4arl0s/Swift#functions) [X]
    * [Structures](https://github.com/c4arl0s/Swift#structures--menu) [X]
@@ -28,7 +37,7 @@ Click on any number and it lead you to the topic.
    * [AutoLayout and Stack Views](https://github.com/c4arl0s/AutoLayoutsAndStackViews)
    * [Guided Project : Apple Pie](https://github.com/c4arl0s/ApplePieApp) [X]
    * [Summary]()
-3. [Navigation And Workflows](https://github.com/c4arl0s/NavigationAndWorkflows) [X]
+### 3. [Navigation And Workflows](https://github.com/c4arl0s/NavigationAndWorkflows) [X]
    * [Optionals](https://github.com/c4arl0s/Optionals) [X]
    * [Type Casting and Inspection](https://github.com/c4arl0s/TypeCastingAndInspection) [X]
    * [Guard](https://github.com/c4arl0s/Guard) [X]
@@ -40,14 +49,14 @@ Click on any number and it lead you to the topic.
    * [Building Simple WorkFlows](https://github.com/c4arl0s/BuildingSimpleWorkflows) [X]
    * [Guided Project: Personality Quiz](https://github.com/c4arl0s/PersonalityQuiz) [X]
    * [Summary]()
-4. [Building AR Apps with Xcode]()
+### 4. [Building AR Apps with Xcode]()
    * [The Augmented Reality Template]()
    * [Introduction to SceneKit]()
    * [Finding Flat Suurfaces]()
    * [Interacting with Augmented Reality]()
    * [Image Recognition in ARKit]()
    * [Guided Project: AR Drawing]()
-5. [Tables and Persistence]()
+### 5. [Tables and Persistence]()
    * [Protocols](https://github.com/c4arl0s/Protocols) [X]
    * [App Anatomy and Life Cycle](https://github.com/c4arl0s/AppAnatomyAndLifeCycle) [X]
    * [Model View Controller](https://github.com/c4arl0s/Model_View_Controller) [X]
@@ -59,7 +68,7 @@ Click on any number and it lead you to the topic.
    * [Building Complex Input Screens](https://github.com/c4arl0s/BuildingComplexInputScreens) [X]
    * [Guided Project: List](https://github.com/c4arl0s/ToDoListApp) [X]
    * [Summary]()
-6. [Working with the Web]()
+### 6. [Working with the Web]()
    * [Closures](https://github.com/c4arl0s/Closures) [X]
    * [Extensions]()
    * [Practical Animations]()
@@ -68,7 +77,7 @@ Click on any number and it lead you to the topic.
    * [Working with the web: Concurrency](https://github.com/c4arl0s/WorkingWithTheWebConcurrency) [X] 
    * [Guided Project : Restaurant](https://github.com/c4arl0s/RestaurantApp) [X] 
    * [Summary]()
-7. [Prototyping and Project Planning]()
+### 7. [Prototyping and Project Planning]()
    * [App Personality]()
    * [The Design Cycle]()
    * [Project Planning]()
