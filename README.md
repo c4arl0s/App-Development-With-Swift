@@ -2,7 +2,7 @@
 
 # [AppDevelopmentWithSwift](https://github.com/c4arl0s/AppDevelopmentWithSwift#go-back-to-overview)
 
-App Development With Swift
+iOS Development Notes / Diploma Course, UNAM, 2018
 
 Click on any number and it lead you to the topic.
 
@@ -13,7 +13,9 @@ Click on any number and it lead you to the topic.
 5. [x] [Tables and Persistence](https://github.com/c4arl0s/AppDevelopmentWithSwift#5-tables-and-persistence) 
 6. [x] [Working with the Web](https://github.com/c4arl0s/AppDevelopmentWithSwift#6-working-with-the-web) 
 7. [x] [Prototyping and Project Planning](https://github.com/c4arl0s/AppDevelopmentWithSwift#7-prototyping-and-project-planning) 
-
+8. [x] [Core Graphics](https://github.com/c4arl0s/AppDevelopmentWithSwift#8-Core-Graphics)
+9. [x] [iOS Development Notes / Diploma Course](https://github.com/c4arl0s/iOSDevelpmentNotes)
+10. [x] [Collections of playgrounds](https://github.com/c4arl0s/Modulo-1-del-Diplomado-de-Aplicaciones-Moviles-2a-Generacion) 
 
 ### 1. [Getting Started With App Development](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift)
 
@@ -97,4 +99,9 @@ Click on any number and it lead you to the topic.
 2. [x] [The Design Cycle](https://github.com/c4arl0s/TheDesignCycle#the-design-cycle---content) 
 3. [x] [Project Planning](https://github.com/c4arl0s/ProjectPlanning#project-planning---content) 
 4. [ ] Summary
+
+### 8. [Core Graphics](https://github.com/c4arl0s/AppDevelopmentWithSwift#appdevelopmentwithswift)
+
+1. [x] [Glass Water Counter App](https://github.com/c4arl0s/GlassWaterCounterCoreGraphics#glasswatercountercoregraphics)
+2. [x] [Simple view](https://github.com/c4arl0s/SimpleView_UIKitCore_UIGraphics)
 
