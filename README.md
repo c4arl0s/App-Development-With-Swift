@@ -42,7 +42,7 @@ Click on any number and it lead you to the topic.
 8. [x] [Displaying Data](https://github.com/c4arl0s/2-Introduction-to-UIKit-Presentation#displaying-data) 
 9. [x] [Control In Action](https://github.com/c4arl0s/2-Introduction-to-UIKit-Presentation#controls-in-action) 
 10. [x] [AutoLayout and Stack Views](https://github.com/c4arl0s/2-Introduction-to-UIKit-Presentation#autolayout-and-stack-views) 
-11. [x] [Guided Project : Apple Pie](https://github.com/c4arl0s/2-Introduction-to-UIKit-Presentation#calculator---lab) 
+11. [x] [Guided Project : Apple Pie](https://github.com/c4arl0s/2-Introduction-to-UIKit-Presentation#guided-project--apple-pie) 
 12. [ ] Summary
 
 ### 3. [Navigation And Workflows](https://github.com/c4arl0s/3-Navigation-And-Workflows-Presentation#3-navigation-and-workflows) 
