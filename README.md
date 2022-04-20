@@ -6,16 +6,16 @@ iOS Development Notes / Diploma Course, UNAM, 2018
 
 Click on any number and it lead you to the topic.
 
-1. [x] [Getting Started With App Development](https://github.com/c4arl0s/AppDevelopmentWithSwift#1-getting-started-with-app-development) 
-2. [x] [Introduction to UIKit](https://github.com/c4arl0s/AppDevelopmentWithSwift#2-introduction-to-uikit) 
-3. [x] [Navigation And Workflows](https://github.com/c4arl0s/AppDevelopmentWithSwift#3-navigation-and-workflows) 
-4. [ ] [Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode)
-5. [x] [Tables and Persistence](https://github.com/c4arl0s/AppDevelopmentWithSwift#5-tables-and-persistence) 
-6. [x] [Working with the Web](https://github.com/c4arl0s/AppDevelopmentWithSwift#6-working-with-the-web) 
-7. [x] [Prototyping and Project Planning](https://github.com/c4arl0s/AppDevelopmentWithSwift#7-prototyping-and-project-planning) 
-8. [x] [Core Graphics](https://github.com/c4arl0s/AppDevelopmentWithSwift#8-Core-Graphics)
-9. [x] [iOS Development Notes / Diploma Course](https://github.com/c4arl0s/iOSDevelpmentNotes)
-10. [x] [Collections of playgrounds](https://github.com/c4arl0s/Modulo-1-del-Diplomado-de-Aplicaciones-Moviles-2a-Generacion) 
+1. [x] [1. Getting Started With App Development](https://github.com/c4arl0s/AppDevelopmentWithSwift#1-getting-started-with-app-development) 
+2. [x] [2. Introduction to UIKit](https://github.com/c4arl0s/AppDevelopmentWithSwift#2-introduction-to-uikit) 
+3. [x] [3. Navigation And Workflows](https://github.com/c4arl0s/AppDevelopmentWithSwift#3-navigation-and-workflows) 
+4. [ ] [4. Building AR Apps with Xcode](https://github.com/c4arl0s/AppDevelopmentWithSwift#4-building-ar-apps-with-xcode)
+5. [x] [5. Tables and Persistence](https://github.com/c4arl0s/AppDevelopmentWithSwift#5-tables-and-persistence) 
+6. [x] [6. Working with the Web](https://github.com/c4arl0s/AppDevelopmentWithSwift#6-working-with-the-web) 
+7. [x] [7. Prototyping and Project Planning](https://github.com/c4arl0s/AppDevelopmentWithSwift#7-prototyping-and-project-planning) 
+8. [x] [8. Core Graphics](https://github.com/c4arl0s/AppDevelopmentWithSwift#8-Core-Graphics)
+9. [x] [9. iOS Development Notes / Diploma Course](https://github.com/c4arl0s/iOSDevelpmentNotes)
+10. [x] [10. Collections of playgrounds](https://github.com/c4arl0s/Modulo-1-del-Diplomado-de-Aplicaciones-Moviles-2a-Generacion) 
 
 ### 1. [Getting Started With App Development](https://github.com/c4arl0s/1-Getting-Started-With-App-Development-Presentation#1-getting-started-with-app-development)
 
