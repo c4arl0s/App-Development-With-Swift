@@ -105,7 +105,19 @@ Click on any number and it lead you to the topic.
 1. [x] [Glass Water Counter App](https://github.com/c4arl0s/8-Core-Graphics#8-core-graphics)
 2. [x] [Simple view](https://github.com/c4arl0s/8-Core-Graphics#8-core-graphics)
 
-### 9. Advanced Data Display
+### 9. [Working with the Web]() Rewrite code using async and await concepts
+
+These projects were cloned in order to rewrite code using modern concepts.
+
+`async` and `await` concepts were introduced on Swift 5.5
+
+4. [ ] [Working with the Web: HTTP and URL Session](https://github.com/c4arl0s/WorkingWithTheWebHTTPandURLSession-Await-Async) [Using asyn and await]
+5. [ ] [Working with the Web: Decoding JSON](https://github.com/c4arl0s/WorkingWithTheWebDecodingJSON-await-async) [Using asyn and await] 
+6. [ ] [Working with the web: Concurrency](https://github.com/c4arl0s/WorkingWithTheWebConcurrency-await-async) [Using asyn and await]
+7. [ ] [Guided Project : Restaurant](https://github.com/c4arl0s/RestaurantApp-Using-await-async-concepts) [Using asyn and await]
+8. [ ] Summary
+
+### 10. Advanced Data Display
 
 1. [x] [Collection Views](https://github.com/c4arl0s/Collection-Views#collection-views---content)
 2. [ ] [Swift Generics](https://github.com/c4arl0s/Swift-Generics#swift-generics---content)
