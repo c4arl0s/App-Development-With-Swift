@@ -10,3 +10,6 @@
 [submodule "4-Building-AR-Apps-with-Xcode-Presentation"]
 	path = 4-Building-AR-Apps-with-Xcode-Presentation
 	url = git@github.com:c4arl0s/4-Building-AR-Apps-with-Xcode-Presentation.git
+[submodule "3-Navigation-And-Workflows-Presentation"]
+	path = 3-Navigation-And-Workflows-Presentation
+	url = git@github.com:c4arl0s/3-Navigation-And-Workflows-Presentation.git
