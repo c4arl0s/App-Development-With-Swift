@@ -13,9 +13,11 @@ Click on any number and it lead you to the topic.
 5. [x] [5. Tables and Persistence](https://github.com/c4arl0s/AppDevelopmentWithSwift#5-tables-and-persistence) 
 6. [x] [6. Working with the Web](https://github.com/c4arl0s/AppDevelopmentWithSwift#6-working-with-the-web) 
 7. [x] [7. Prototyping and Project Planning](https://github.com/c4arl0s/AppDevelopmentWithSwift#7-prototyping-and-project-planning) 
-8. [x] [8. Core Graphics](https://github.com/c4arl0s/AppDevelopmentWithSwift#8-Core-Graphics)
-9. [x] [9. iOS Development Notes / Diploma Course](https://github.com/c4arl0s/iOSDevelpmentNotes)
-10. [x] [10. Collections of playgrounds](https://github.com/c4arl0s/Modulo-1-del-Diplomado-de-Aplicaciones-Moviles-2a-Generacion) 
+8. [ ] [8. Working with the Web (async and await concepts)]()
+9. [ ] [9. Advanced Data Display](https://github.com/c4arl0s/9-Advanced-Data-Display-Presentation)
+10. [x] [10. Core Graphics](https://github.com/c4arl0s/AppDevelopmentWithSwift#9-Core-Graphics-Presentation)
+11. [x] [11. iOS Development Notes / Diploma Course](https://github.com/c4arl0s/iOSDevelpmentNotes)
+12. [x] [12. Collections of playgrounds](https://github.com/c4arl0s/Modulo-1-del-Diplomado-de-Aplicaciones-Moviles-2a-Generacion) 
 
 ### 1. [Getting Started With App Development](https://github.com/c4arl0s/1-Getting-Started-With-App-Development-Presentation#1-getting-started-with-app-development)
 
@@ -100,12 +102,7 @@ Click on any number and it lead you to the topic.
 3. [x] [Project Planning](https://github.com/c4arl0s/7-Prototyping-and-Project-Planning#project-planning) 
 4. [ ] Summary
 
-### 8. [Core Graphics](https://github.com/c4arl0s/8-Core-Graphics#8-core-graphics)
-
-1. [x] [Glass Water Counter App](https://github.com/c4arl0s/8-Core-Graphics#8-core-graphics)
-2. [x] [Simple view](https://github.com/c4arl0s/8-Core-Graphics#8-core-graphics)
-
-### 9. [Working with the Web]() Rewrite code using async and await concepts
+### 8. [Working with the Web]() Rewrite code using async and await concepts
 
 These projects were cloned in order to rewrite code using modern concepts.
 
@@ -117,7 +114,7 @@ These projects were cloned in order to rewrite code using modern concepts.
 7. [ ] [Guided Project : Restaurant](https://github.com/c4arl0s/RestaurantApp-Using-await-async-concepts) [Using asyn and await]
 8. [ ] Summary
 
-### 10. Advanced Data Display
+### 9. [Advanced Data Display]()
 
 1. [x] [Collection Views](https://github.com/c4arl0s/Collection-Views#collection-views---content)
 2. [ ] [Swift Generics](https://github.com/c4arl0s/Swift-Generics#swift-generics---content)
@@ -128,3 +125,7 @@ These projects were cloned in order to rewrite code using modern concepts.
 7. [ ] [Guided Project: Habits](https://github.com/c4arl0s/Guided-Project-Habits#guided-project-habits---content)
 8. [ ] Summary
 
+### 10. [Core Graphics](https://github.com/c4arl0s/8-Core-Graphics#8-core-graphics)
+
+1. [x] [Glass Water Counter App](https://github.com/c4arl0s/8-Core-Graphics#8-core-graphics)
+2. [x] [Simple view](https://github.com/c4arl0s/8-Core-Graphics#8-core-graphics)
