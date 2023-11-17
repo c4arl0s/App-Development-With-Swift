@@ -4,3 +4,6 @@
 [submodule "7-Prototyping-and-Project-Planning"]
 	path = 7-Prototyping-and-Project-Planning
 	url = git@github.com:c4arl0s/7-Prototyping-and-Project-Planning.git
+[submodule "5-Tables-and-Persistence-Presentation"]
+	path = 5-Tables-and-Persistence-Presentation
+	url = git@github.com:c4arl0s/5-Tables-and-Persistence-Presentation.git
