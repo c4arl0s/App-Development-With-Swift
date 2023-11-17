@@ -7,3 +7,6 @@
 [submodule "5-Tables-and-Persistence-Presentation"]
 	path = 5-Tables-and-Persistence-Presentation
 	url = git@github.com:c4arl0s/5-Tables-and-Persistence-Presentation.git
+[submodule "4-Building-AR-Apps-with-Xcode-Presentation"]
+	path = 4-Building-AR-Apps-with-Xcode-Presentation
+	url = git@github.com:c4arl0s/4-Building-AR-Apps-with-Xcode-Presentation.git
