@@ -19,9 +19,6 @@
 [submodule "1-Getting-Started-With-App-Development-Presentation"]
 	path = 1-Getting-Started-With-App-Development-Presentation
 	url = git@github.com:c4arl0s/1-Getting-Started-With-App-Development-Presentation.git
-[submodule "8-Working-with-the-Web-async-and-await-concepts-Presentation"]
-	path = 8-Working-with-the-Web-async-and-await-concepts-Presentation
-	url = git@github.com:c4arl0s/8-Working-with-the-Web-async-and-await-concepts-Presentation.git
 [submodule "9-Advanced-Data-Display-Presentation"]
 	path = 9-Advanced-Data-Display-Presentation
 	url = git@github.com:c4arl0s/9-Advanced-Data-Display-Presentation.git
