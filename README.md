@@ -102,7 +102,7 @@ Click on any number and it lead you to the topic.
 3. [x] [Project Planning](https://github.com/c4arl0s/7-Prototyping-and-Project-Planning#project-planning) 
 4. [ ] Summary
 
-### 8. [Working with the Web]() Rewrite code using async and await concepts
+### 8. [Working with the Web](https://github.com/c4arl0s/8-Working-with-the-Web-async-and-await-concepts-Presentation#8-working-with-the-web-async-and-await-concepts-presentation) Rewrite code using async and await concepts
 
 These projects were cloned in order to rewrite code using modern concepts.
 
@@ -114,7 +114,7 @@ These projects were cloned in order to rewrite code using modern concepts.
 7. [ ] [Guided Project : Restaurant](https://github.com/c4arl0s/RestaurantApp-Using-await-async-concepts) [Using asyn and await]
 8. [ ] Summary
 
-### 9. [Advanced Data Display]()
+### 9. [Advanced Data Display](https://github.com/c4arl0s/9-Advanced-Data-Display-Presentation#9-advanced-data-display-presentation)
 
 1. [x] [Collection Views](https://github.com/c4arl0s/Collection-Views#collection-views---content)
 2. [ ] [Swift Generics](https://github.com/c4arl0s/Swift-Generics#swift-generics---content)
@@ -125,7 +125,7 @@ These projects were cloned in order to rewrite code using modern concepts.
 7. [ ] [Guided Project: Habits](https://github.com/c4arl0s/Guided-Project-Habits#guided-project-habits---content)
 8. [ ] Summary
 
-### 10. [Core Graphics](https://github.com/c4arl0s/8-Core-Graphics#8-core-graphics)
+### 10. [Core Graphics](https://github.com/c4arl0s/9-Core-Graphics-Presentation#8-core-graphics)
 
 1. [x] [Glass Water Counter App](https://github.com/c4arl0s/8-Core-Graphics#8-core-graphics)
 2. [x] [Simple view](https://github.com/c4arl0s/8-Core-Graphics#8-core-graphics)
