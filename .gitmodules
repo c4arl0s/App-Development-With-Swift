@@ -22,3 +22,6 @@
 [submodule "9-Advanced-Data-Display-Presentation"]
 	path = 9-Advanced-Data-Display-Presentation
 	url = git@github.com:c4arl0s/9-Advanced-Data-Display-Presentation.git
+[submodule "8-Working-with-the-Web-async-and-await-concepts-Presentation"]
+	path = 8-Working-with-the-Web-async-and-await-concepts-Presentation
+	url = git@github.com:c4arl0s/8-Working-with-the-Web-async-and-await-concepts-Presentation.git
