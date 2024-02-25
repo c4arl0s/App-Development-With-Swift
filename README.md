@@ -1,10 +1,14 @@
 # [go back to Overview](https://github.com/c4arl0s)
 
+In order to update an existing Git submodule execute: (You migh need permissions from Owner)
+
+```console
+ git submodule update --remote --merge
+```
+
 # [AppDevelopmentWithSwift](https://github.com/c4arl0s/AppDevelopmentWithSwift#go-back-to-overview)
 
 [iOS Development Notes / Diploma Course, UNAM, 2019]()
-
-Click on any link and it leads you to the topic to show a brief presentation. If you have permission to access, type `git submodule init` and `git submodule update --init --recursive` 
 
 1. [x] [1. Getting Started With App Development](https://github.com/c4arl0s/AppDevelopmentWithSwift#1-getting-started-with-app-development) 
 2. [x] [2. Introduction to UIKit](https://github.com/c4arl0s/AppDevelopmentWithSwift#2-introduction-to-uikit) 
