@@ -3,7 +3,8 @@
 In order to update an existing Git submodule execute: (You migh need permissions from Owner)
 
 ```console
- git submodule update --remote --merge
+git submodule update --init --recursive
+git submodule update --recursive --remote
 ```
 
 # [AppDevelopmentWithSwift](https://github.com/c4arl0s/AppDevelopmentWithSwift#go-back-to-overview)
