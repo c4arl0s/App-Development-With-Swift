@@ -9,7 +9,26 @@ git pull --recurse-submodules
 
 # [AppDevelopmentWithSwift](https://github.com/c4arl0s/AppDevelopmentWithSwift#go-back-to-overview)
 
-[iOS Development Notes / Diploma Course, UNAM, 2019]()
+# Project Description
+* This repository is a comprehensive collection of iOS development knowledge and materials created by c4arl0s during their studies at the iOS Development Laboratory, UNAM (Universidad Nacional Autónoma de México), CU campus in 2018.
+* The project serves as a complete learning resource that consolidates Apple's official educational materials into new, comprehensive, and editable documentation for iOS development.
+
+# Key Features
+* 📚 Complete Course Material: Contains 12 comprehensive modules covering all aspects of iOS development
+* 🎓 Academic Foundation: Based on official Apple materials from UNAM's iOS Development Laboratory
+* 📖 Enhanced Documentation: Transforms read-only Apple materials into editable, comprehensive documentation
+* 🔧 Practical Projects: Includes guided projects and hands-on exercises for each module
+* ⚡ Modern Swift: Updated to include modern Swift 5.5+ concepts like async and await
+
+# Repository Structure
+* The repository is organized into numbered modules, each containing:
+* Presentation materials and documentation
+* Guided projects with practical exercises
+* Code examples and playgrounds
+* Comprehensive summaries for each topic
+* This repository represents a valuable educational resource that bridges the gap between Apple's official materials and practical, editable learning content for the iOS development community.
+
+## iOS Development Notes / Diploma Course, UNAM, 2019
 
 1. [x] [1. Getting Started With App Development](https://github.com/c4arl0s/AppDevelopmentWithSwift#1-getting-started-with-app-development) 
 2. [x] [2. Introduction to UIKit](https://github.com/c4arl0s/AppDevelopmentWithSwift#2-introduction-to-uikit) 
